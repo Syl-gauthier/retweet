@@ -1,6 +1,6 @@
 # retweet
 
-(Since the the twitter REST API does allor to use cursor on the retweets, for now this module return 10 retweeter max)
+(Since the the twitter REST API does allor to use cursor on the retweets, for now this module return 100 retweeter max)
 
 Simple twitter-API tool to list the information about the users that retweeted a given tweet. 
 
