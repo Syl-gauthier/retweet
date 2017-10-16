@@ -1,6 +1,6 @@
 {
   "name": "retweet",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Simple twitter-API tool to list the information about the users that retweeted a given tweet.",
   "main": "index.js",
   "scripts": {
